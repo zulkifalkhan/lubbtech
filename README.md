@@ -15,4 +15,6 @@ TypeScript is used as the main proper langauge here.
 Firebase is used
 React Native is used
 
-
+Code :
+The code has basically been done to show the architecutre of the code rather then actually developing an app.
+Main focus was to show my skills with the way code is been structured.
